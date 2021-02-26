@@ -1,0 +1,14 @@
+svg {
+  background: inherit;
+}
+.pult svg {
+  font-size: 40px;
+}
+.pult svg :hover {
+  font-size: 40px;
+  fill: lightcoral;
+}
+.menu a {
+  background: inherit;
+  font-size: 25px;
+}
